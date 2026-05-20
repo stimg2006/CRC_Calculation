@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+CRC_Tool_log.txt
+.streamlit/secrets.toml
+*.db
